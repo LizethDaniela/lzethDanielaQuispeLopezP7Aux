@@ -1,0 +1,11 @@
+.container-label{
+    display: flex;
+    padding-top: 20px;
+    right: 80px;
+       
+}
+ label{
+    color:blueviolet;
+    font-weight: bold;
+    
+}

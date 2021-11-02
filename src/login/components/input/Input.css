@@ -1,0 +1,25 @@
+.container{
+    padding-top:  5px;
+    
+}
+input{
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 35px;
+    box-shadow: inset 0px 0px 25px 0px #FF0099;
+    margin: none;
+    padding: 0;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.input-error{
+    border: 1px solid red;
+    color: grey;
+    background: rgb(207, 137, 137);
+}

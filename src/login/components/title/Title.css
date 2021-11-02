@@ -1,0 +1,13 @@
+.title-container label{
+    background-color:deeppink;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    width: 320px;
+    height: 80px;
+    color:white;
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
